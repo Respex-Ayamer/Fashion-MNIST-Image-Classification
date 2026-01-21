@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:980404,50:9b5cff,100:980404&height=220&section=header&text=FLOMERE%20MATUNOG&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RESPEX%20At%20Your%20Service&descAlignY=50" />
@@ -53,7 +54,6 @@
 <div align="center">
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=respex-ayamer&show_icons=true&theme=radical&border_radius=12" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=respex-ayamer&theme=radical&border_radius=12" height="170"/>
 </p>
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=respex-ayamer&theme=radical" />
