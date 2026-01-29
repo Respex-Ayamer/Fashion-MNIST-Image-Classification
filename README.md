@@ -47,7 +47,7 @@
 
 🛠️ TECHNOLOGY STACK
 ---
-<img src="https://skillicons.dev/icons?i=html,aws,blender,bootstrap,cpp,css,figma,ai,java,js,kotlin,linux,mysql,nodejs,ps,php,python,react,tensorflow,vue&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,aws,blender,bootstrap,cpp,figma,ai,java,js,kotlin,linux,mysql,nodejs,ps,php,python,react,tensorflow,vue&theme=dark" />
 
 ---
 
